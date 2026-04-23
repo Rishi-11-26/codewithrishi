@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Positive, Negative, or Zero",
+    "description": "Given an integer n, print Positive if n > 0, Negative if n < 0, otherwise print Zero.",
+    "difficulty": "Easy",
+    "tags": ["conditionals", "math", "basics"],
+    "testCases": [
+      { "input": "5", "output": "Positive" },
+      { "input": "-3", "output": "Negative" },
+      { "input": "0", "output": "Zero" }
+    ]
+  },
+  {
+    "title": "Largest of Two Numbers",
+    "description": "Given two space-separated integers a and b, print the larger number.",
+    "difficulty": "Easy",
+    "tags": ["comparison", "math", "basics"],
+    "testCases": [
+      { "input": "7 3", "output": "7" },
+      { "input": "2 9", "output": "9" }
+    ]
+  },
+  {
+    "title": "Divisible by 5 and 11",
+    "description": "Given integer n, print Yes if n is divisible by both 5 and 11, else print No.",
+    "difficulty": "Easy",
+    "tags": ["modulo", "conditionals", "math"],
+    "testCases": [
+      { "input": "55", "output": "Yes" },
+      { "input": "20", "output": "No" }
+    ]
+  }
+]
